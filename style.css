@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+   }
+   .dog1 {
+    height:1000px;
+    width:1000px;
+   }
+
+   .dog2 {
+    height:1000px;
+    width:1000px;
+   }
+
+   .dog3 {
+    height:1000px;
+    width:1000px;
+   }
+
+   .dog4 {
+    height:1000px;
+    width:1000px;
+   }
+
